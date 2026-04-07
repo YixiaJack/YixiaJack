@@ -14,8 +14,6 @@ Honors Mathematics & Computer Science @ NYU · Class of 2027
 **Other:** MuseScore · MusicXML · LaTeX
  
 ---
- 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=YixiaJack&show_icons=true&theme=transparent&hide_border=true)](https://github.com/YixiaJack)
 
 ### Contact
 
