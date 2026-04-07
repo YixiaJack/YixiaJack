@@ -7,7 +7,7 @@
 ### About Me:
  
 🎓 Honors Mathematics & Computer Science @ NYU (Shanghai → New York), Class of 2027  
-🤖 Focus Area: Multi-Agent Reinforcement Learning, Cooperative Robotics, AIE
+🤖 Focus Area: Multi-Agent Reinforcement Learning, Cooperative Robotics, AIE 
 🔬 Currently researching at NYU Tandon  
 💼 Looking for 2026 US Quant / ML Research Internship  
  
@@ -50,8 +50,3 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
  
----
- 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YixiaJack&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
