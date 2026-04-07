@@ -60,7 +60,33 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![K3d](https://img.shields.io/badge/K3d-FFC61C?style=for-the-badge&logo=k3s&logoColor=black)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
+![Skaffold](https://img.shields.io/badge/Skaffold-00AFF0?style=for-the-badge&logo=google&logoColor=white)
+![etcd](https://img.shields.io/badge/etcd-419EDA?style=for-the-badge&logo=etcd&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
  
+---
+ ## 🎵 Music
+ 
+I compose original music blending trip-hop/downtempo with classical Chinese poetry aesthetics. Currently working on *Snow Dreaming*  — a piece in D Hungarian minor at 90 BPM, scored for voice, violin, piano, electric guitar and classical guitar.
+ 
+![MuseScore](https://img.shields.io/badge/MuseScore-1A70B8?style=for-the-badge&logo=musescore&logoColor=white)
+![MusicXML](https://img.shields.io/badge/MusicXML-E01F3D?style=for-the-badge&logo=musicbrainz&logoColor=white)
+ 
+---
+ 
+## 🃏 Contract Bridge
+ 
+Competitive bridge player. Probability, game theory, and decision-making under incomplete information — at the table.
+
+---
+## ✍️ WeChat 公众号：游岛安然
+ 
+Writing about decision theory, behavioral economics, and my original framework — **选择势能论 (Choice Potential Theory)**. Topics include the dynamics of psychological boundaries (度), game-theoretic models of relationships, and connections to classical Chinese philosophy (I Ching).
+ 
+![WeChat](https://img.shields.io/badge/游岛安然-07C160?style=for-the-badge&logo=wechat&logoColor=white)
