@@ -28,6 +28,19 @@
 ![JAX](https://img.shields.io/badge/JAX-A435F0?style=for-the-badge&logo=google&logoColor=white)
 ![Gymnasium](https://img.shields.io/badge/Gymnasium-0081A5?style=for-the-badge&logo=openaigym&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+### - AI Agents & LLM -
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic_API-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-E0864A?style=for-the-badge&logo=anthropic&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Function Calling](https://img.shields.io/badge/Function_Calling-00A67E?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-764ABC?style=for-the-badge&logo=anthropic&logoColor=white)
+![Multi--Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-2F80ED?style=for-the-badge&logo=robot-framework&logoColor=white)
+![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-34A853?style=for-the-badge&logo=zapier&logoColor=white)
  
 ### - Robotics & IoT -
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
