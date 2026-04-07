@@ -7,8 +7,7 @@
 ### About Me:
  
 🎓 Honors Mathematics & Computer Science @ NYU (Shanghai → New York), Class of 2027  
-🤖 Focus Area: Multi-Agent Reinforcement Learning, Cooperative Robotics, AIE 
-
+🤖 Focus Area: Multi-Agent Reinforcement Learning, Cooperative Robotics, AIE    
 🔬 Currently researching at NYU Tandon  
 💼 Looking for 2026 US Quant / ML Research Internship  
  
