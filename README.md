@@ -77,6 +77,10 @@ I compose original music blending trip-hop/downtempo with classical Chinese poet
  
 ![MuseScore](https://img.shields.io/badge/MuseScore-1A70B8?style=for-the-badge&logo=musescore&logoColor=white)
 ![MusicXML](https://img.shields.io/badge/MusicXML-E01F3D?style=for-the-badge&logo=musicbrainz&logoColor=white)
+![Ableton Live](https://img.shields.io/badge/DAW-Ableton_Live-000000?logo=abletonlive&logoColor=white)
+![Music21](https://img.shields.io/badge/music21-MusicXML_Parser-8B4513)
+![MIDI](https://img.shields.io/badge/MIDI-Output-FF6F00)
+![Trip-Hop](https://img.shields.io/badge/Genre-Trip--Hop%2FDowntempo-critical)
  
 ---
  
