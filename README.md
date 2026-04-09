@@ -94,4 +94,4 @@ Competitive bridge player. Probability, game theory, and decision-making under i
  
 Writing about decision theory, behavioral economics, and my original framework — **选择势能论 (Choice Potential Theory)**. Topics include the dynamics of psychological boundaries (度), game-theoretic models of relationships, and connections to classical Chinese philosophy (I Ching).
  
-[![WeChat](https://img.shields.io/badge/游岛安然-07C160?style=for-the-badge&logo=wechat&logoColor=white)](wechat_qr.png)
+[![WeChat](https://img.shields.io/badge/游岛安然-07C160?style=for-the-badge&logo=wechat&logoColor=white)](wechat-qr.png)
