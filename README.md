@@ -76,11 +76,12 @@
 I compose original music blending trip-hop/downtempo with classical Chinese poetry aesthetics. Currently working on *Snow Dreaming*  — a piece in D Hungarian minor at 90 BPM, scored for voice, violin, piano, electric guitar and classical guitar.
  
 ![MuseScore](https://img.shields.io/badge/MuseScore-1A70B8?style=for-the-badge&logo=musescore&logoColor=white)
+![Ableton Live](https://img.shields.io/badge/Ableton_Live-000000?style=for-the-badge&logo=abletonlive&logoColor=white)
 ![MusicXML](https://img.shields.io/badge/MusicXML-E01F3D?style=for-the-badge&logo=musicbrainz&logoColor=white)
-![Ableton Live](https://img.shields.io/badge/DAW-Ableton_Live-000000?logo=abletonlive&logoColor=white)
-![Music21](https://img.shields.io/badge/music21-MusicXML_Parser-8B4513)
-![MIDI](https://img.shields.io/badge/MIDI-Output-FF6F00)
-![Trip-Hop](https://img.shields.io/badge/Genre-Trip--Hop%2FDowntempo-critical)
+![Trip-Hop](https://img.shields.io/badge/Trip--Hop-E4405F?style=for-the-badge&logoColor=white)
+![AI Music](https://img.shields.io/badge/AI_Music_Generation-FF69B4?style=for-the-badge&logoColor=white)
+![music21](https://img.shields.io/badge/music21-8B4513?style=for-the-badge&logoColor=white)
+![MIDI](https://img.shields.io/badge/MIDI-FF6F00?style=for-the-badge&logo=midi&logoColor=white)
  
 ---
  
