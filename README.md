@@ -90,22 +90,6 @@ I compose original music blending trip-hop/downtempo with classical Chinese poet
 Competitive bridge player. Probability, game theory, and decision-making under incomplete information — at the table.
 
 ---
-
-## Claude Code Skills
-
-I build **Claude Code Skills** — AI personas and analysis tools that you can install with one command.
-
-| Skill | What It Does | Install |
-|-------|-------------|---------|
-| [超级情场高手](https://github.com/YixiaJack/dating-master-skill) | Dating text analyzer built on pragmatics, attachment theory & signaling game theory | `npx skills add YixiaJack/dating-master-skill` |
-| [峰哥亡命天涯](https://github.com/YixiaJack/feng-ge-skill) | 峰哥的街头现实主义视角 — 辩证反转、底层洞察、性压抑大一统理论 | `npx skills add YixiaJack/feng-ge-skill` |
-| [罗翔说刑法](https://github.com/YixiaJack/luo-xiang-skill) | 罗翔的法学思维框架 — 圆圈正义、罪刑法定、张三案例教学 | `npx skills add YixiaJack/luo-xiang-skill` |
-| [孟非](https://github.com/YixiaJack/meng-fei-skill) | 孟非的冷幽默婚恋洞察 — 随遇而安、冷眼旁观、一针见血 | `npx skills add YixiaJack/meng-fei-skill` |
-| [卢本伟](https://github.com/YixiaJack/lu-beng-wei-skill) | 五五开的游戏人生哲学 — 逆风不投降、大起大落认知论 | `npx skills add YixiaJack/lu-beng-wei-skill` |
-| [Charlie Kirk](https://github.com/YixiaJack/charlie-kirk-skill) | First-principles conservatism, "Prove Me Wrong" debate framework | `npx skills add YixiaJack/charlie-kirk-skill` |
-| [童锦程](https://github.com/YixiaJack/tong-jincheng-skill) | 深情祖师爷的人际洞察框架 — 吸引力原则、人性不可考验 | `npx skills add YixiaJack/tong-jincheng-skill` |
-
----
 ## ✍️ WeChat 公众号：游岛安然
  
 Writing about decision theory, behavioral economics, and my original framework — **选择势能论 (Choice Potential Theory)**. Topics include the dynamics of psychological boundaries (度), game-theoretic models of relationships, and connections to classical Chinese philosophy (I Ching).
